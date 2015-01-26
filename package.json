@@ -1,0 +1,18 @@
+{
+  "name": "makemake.js",
+  "version": "0.0.0",
+  "description": "Node.js utility to make makefile for C/C++ projects",
+  "main": "makemake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/1upon0/makemake.js"
+  },
+  "author": "1upon0",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
